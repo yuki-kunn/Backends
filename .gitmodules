@@ -1,0 +1,7 @@
+[submodule "task.app"]
+	path = task.app
+	url = https://github.com/yuki-kunn/task.app.git
+[submodule "back"]
+        path = back
+        url = git@github.com:yuki-kunn/Backend.git
+
